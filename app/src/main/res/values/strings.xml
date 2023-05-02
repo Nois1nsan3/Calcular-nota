@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Calcular nota</string>
+
+    <string name="promedios">Calculadora de Promedios</string>
+    <string name="nota_1">Nota 1</string>
+    <string name="nota_2">Nota 2</string>
+    <string name="nota_3">Nota 3</string>
+    <string name="nota_4">Nota 4</string>
+    <string name="ponde_1">% 1</string>
+    <string name="ponde_2">% 2</string>
+    <string name="ponde_3">% 3</string>
+    <string name="ponde_4">% 4</string>
+    <string name="calcular">Calcular</string>
+    <string name="nota_final">Nota Final</string>
+    <string name="usar_concepto">Usar Concepto</string>
+    <string name="asistencia">Asistencia</string>
+</resources>
